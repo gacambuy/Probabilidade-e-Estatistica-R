@@ -1,7 +1,7 @@
 # Análise de acidentes na Rodovia Dutra utilizando linguagem R
-Trabalho final da disciplina de Probabilidade e Estatística que consiste numa análise de acidentes ocorridos na Rodovia Presidente Dutra que liga a cidade de São Paulo a cidade do Rio de Janeiro. O código foi feito em linguagem R utilizando uma base de dados do portal 
+Trabalho final da disciplina de Probabilidade e Estatística desenvolvido em linguagem de programação R que consiste numa análise de acidentes ocorridos na Rodovia Presidente Dutra que liga a cidade de São Paulo a cidade do Rio de Janeiro.
 
-Palavras-chave: Estatística. Análise de Dados, R, Acidentes.
+Palavras-chave: Estatística. Análise de Dados, R, Acidentes, Nuvem de palavras.
 <br>
 
 ## Códigos
